@@ -1,7 +1,7 @@
 {
-  "name": "Queen-Alexa",
+  "name": "kaydo-bot",
   "version": "1.0.0",
-  "description": "Queen-Alexa",
+  "description": "kaydo-bot",
   "main": "run.js",
   "directories": {
     "lib": "lib"
@@ -53,7 +53,7 @@
   "keywords": [
     "self bot wa"
   ],
-  "author": "Queen-Alexa",
+  "author": "kaydo-bot",
   "license": "ISC",
   "bugs": {},
   "homepage": "https://github.com/HYPER-MOD"
